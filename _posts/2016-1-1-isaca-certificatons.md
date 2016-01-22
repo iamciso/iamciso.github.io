@@ -40,9 +40,5 @@ ranked CRISC among the most sought-after
 and highest-paying IT certifications. 
 
 ##Cybersecurity Nexus - CSX Certificate and CSX-P Certification
-[CSX & CSX-P](CRISC (pronounced “see-risk”) is the only certification
-that positions IT professionals for future career growth
-by linking IT risk management to enterprise risk management, and positioning them to become strategic partners to the business. The recent quarterly IT Skills
-and Certifications Pay Index (ITSCPI) from Foote Partners
-ranked CRISC among the most sought-after
-and highest-paying IT certifications. )
+[CSX & CSX-P](http://www.isaca.org/cyber/pages/default.aspx) 
+As the cyber landscape continues to rapidly evolve, it’s not enough to rely solely on knowledge and theory. A performance-based CSX certification is a testament to your real-life skills and experience and proclaims that your commitment, tenacity, and abilities exceed expectations. CSX programs and certifications help individuals demonstrate their skills and prove that they know the most current cyber security standards, and offer employers confidence that their employees are up to demanding tasks.
