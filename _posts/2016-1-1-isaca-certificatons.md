@@ -3,8 +3,6 @@ layout: post
 title: ISACA Certifications
 ---
 
-#[ISACA](http://www.isaca.org)
-
 ##Certified Information Systems Auditor
 [CISA](http://www.isaca.org/Certification/CISA-Certified-Information-Systems-Auditor/Pages/default.aspx)
 The CISA certification is world-renowned as the
